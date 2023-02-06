@@ -1,0 +1,21 @@
+[
+  {
+    "slidePorduct": [
+      {
+        "img": "images/speaker.png",
+        "name": "speaker",
+        "items": "(6 items)"
+      },
+      {
+        "img": "images/computer.png",
+        "name": "Desktop & laptop",
+        "items": "(6 items)"
+      },
+      {
+        "img": "images/camera.png",
+        "name": "DSLR camera",
+        "items": "(6 items)"
+      }
+    ]
+  }
+]
