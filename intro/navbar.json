@@ -1,0 +1,27 @@
+[
+  {
+    "li": "Browse categories ⌄",
+    "popular": [
+      {
+        "pop": "1"
+      },
+      { "pop": "2" },
+      { "pop": "3" }
+    ]
+  },
+  {
+    "li": "Home ⌄"
+  },
+  {
+    "li": "Catolog ⌄"
+  },
+  {
+    "li": "Blog"
+  },
+  {
+    "li": "Pages ⌄"
+  },
+  {
+    "li": "About us"
+  }
+]
