@@ -1,6 +1,6 @@
 [
   {
-    "li": "Browse categories ⌄",
+    "li": "Browse categories",
     "popular": [
       {
         "pop": "1"
@@ -10,16 +10,16 @@
     ]
   },
   {
-    "li": "Home ⌄"
+    "li": "Home"
   },
   {
-    "li": "Catolog ⌄"
+    "li": "Catolog"
   },
   {
     "li": "Blog"
   },
   {
-    "li": "Pages ⌄"
+    "li": "Pages"
   },
   {
     "li": "About us"

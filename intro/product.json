@@ -1,50 +1,66 @@
 [
   {
+    "id": 1,
     "image": "http://localhost:8000/images/productPlay.png",
     "title": "Wireless headphones",
-    "price": "$11.70",
+    "price": "11.70",
+    "count": "1",
     "reviews": "*****"
   },
   {
+    "id": 2,
     "image": "http://localhost:8000/images/productLaptop.png",
     "title": "Wireless headphones",
-    "price": "$11.70",
+    "price": "11.70",
+    "count": "1",
     "reviews": "*****"
   },
   {
+    "id": 3,
     "image": "http://localhost:8000/images/productPlay.png",
     "title": "play game",
-    "price": "$11.70",
+    "price": "11.70",
+    "count": "1",
     "reviews": "*****"
   },
   {
+    "id": 4,
     "image": "http://localhost:8000/images/productPlay.png",
     "title": "play game",
-    "price": "$11.70",
+    "price": "11.70",
+    "count": "1",
     "reviews": "*****"
   },
   {
+    "id": 5,
     "image": "http://localhost:8000/images/productLaptop.png",
     "title": "Tablet as a laptop",
-    "price": "$11.70",
+    "price": "11.70",
+    "count": "1",
     "reviews": "*****"
   },
   {
+    "id": 6,
     "image": "http://localhost:8000/images/productPlay.png",
     "title": "play game",
-    "price": "$11.70",
+    "price": "11.70",
+    "count": "1",
     "reviews": "*****"
   },
   {
+    "id": 7,
     "image": "http://localhost:8000/images/productLaptop.png",
     "title": "Tablet as a laptop",
-    "price": "$11.70",
+    "price": "11.70",
+    "count": "1",
     "reviews": "*****"
   },
   {
+    "id": 8,
     "image": "http://localhost:8000/images/productLaptop.png",
     "title": "Camera",
-    "price": "$11.70",
+    "price": "11.70",
+    "count": "1",
     "reviews": "*****"
   }
 ]
